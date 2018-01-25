@@ -1,2 +1,2 @@
 # code-cracker
-This read me file will  be updated on later stage according to the idea of the project selection
+This is the submissions for ICP1 for Advanced Software Engineering
